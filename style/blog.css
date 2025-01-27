@@ -130,3 +130,26 @@
 .four-flowers{
     margin-top: ;
 }
+/* footer section style */
+footer{
+    margin: 0 auto;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.footer title{
+    font-size: 48px;
+    font-weight: 700px;
+}
+.footer-title-one{
+    color:rgba(229, 84, 115, 1);
+}
+.footer-discription{
+    font-size: 18px;
+    padding: 24px 32px;
+}
+.footer-small{
+    color: gray;
+}
